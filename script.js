@@ -83,4 +83,4 @@ let areaOfTriangle = (base, height) => {
 }
 
 console.log("\n\n---------------- Task 5 ----------------\n");
-console.log("Area of Shape: ", areaOfRectangle(7, 6) + areaOfTriangle(3, 5), "mm\n");
+console.log("Area of Shape: ", areaOfRectangle(7, 6) + areaOfTriangle(3, 5), "mm^2\n");
